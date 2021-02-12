@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:battery_plus_platform_interface/battery_plus_platform_interface.dart';
+import 'package:battery_plus/src/platform_interface/battery_plus_platform_interface.dart';
 import 'package:meta/meta.dart';
 
 import 'upower_device.dart';

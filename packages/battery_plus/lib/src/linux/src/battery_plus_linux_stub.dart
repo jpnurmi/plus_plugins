@@ -1,4 +1,4 @@
-import 'package:battery_plus_platform_interface/battery_plus_platform_interface.dart';
+import 'package:battery_plus/src/platform_interface/battery_plus_platform_interface.dart';
 
 /// A stub implementation to satisfy compilation of multi-platform packages that
 /// depend on battery_plus_linux. This should never actually be created.
